@@ -346,6 +346,8 @@ Meters returned: 20
 - **README.md** — Project overview and setup
 - **PROTOCOL.md** — Reverse engineering findings
 - **openapi.json** — API specification
+- **REFLECTION.md.** — Actual Experience
+  
 
 ---
 
