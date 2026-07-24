@@ -1,0 +1,12 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Flock Energy API",
+    "description": "API wrapper for Flock Energy backend services",
+    "version": "0.1.0"
+  },
+  "paths": {},
+  "components": {
+    "schemas": {}
+  }
+}
