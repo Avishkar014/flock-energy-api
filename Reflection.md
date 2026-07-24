@@ -1,4 +1,5 @@
 Reflection
+
 What assumptions did you make?
 
 During the reverse engineering process, I assumed that the web portal communicated with its backend through HTTP endpoints rather than rendering all data server-side. Based on the observed network traffic, I also assumed that the Better Auth session cookie remained valid for the duration of a client session, allowing authenticated requests without logging in repeatedly. Since the portal did not provide official API documentation, all endpoint behavior was inferred from browser network requests and validated through direct testing.
